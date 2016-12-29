@@ -8,6 +8,7 @@ LeetCode Problems' Solutions in JavaScript from https://leetcode.com
 [Leetcode Algorithms Problems](https://leetcode.com/problemset/algorithms/)  
 [Leetcode Database Problems](https://leetcode.com/problemset/database/)  
 [Leetcode Shell Problems](https://leetcode.com/problemset/shell/)  
+[Leetcode Draft Problems](https://leetcode.com/problemset/draft/) 
 
 
 ### LeetCode List
